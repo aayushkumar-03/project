@@ -1,4 +1,4 @@
 # project
 This is first git repository
  <br>
- Author - Aayush Kumar Github
+ Author - Aayush Kumar 
